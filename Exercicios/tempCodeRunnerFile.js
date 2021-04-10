@@ -1,0 +1,1 @@
+ notas.sort((a,b) => a < b ? 1 : -1)
